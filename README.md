@@ -15,26 +15,6 @@ The To-Do List app is a simple and efficient task management tool that helps you
 - 📋 Fetch and display user profile data from the "data.txt" file.
 - 🔢 Sort tasks based on due dates in ascending order.
 
-## Screenshots 📸
-
-![Screenshot 1](screenshots/Screenshot_2.png)
-*Screenshot of the To-Do List app showing tasks for the "My Day" section.*
-
-![Screenshot 2](screenshots/Screenshot_1.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Week" section.*
-
-![Screenshot 3](screenshots/Screenshot_3.png)
-*Screenshot of the To-Do List app showing tasks for the "Current Month" section.*
-
-![Screenshot 4](screenshots/Screenshot_4.png)
-*Screenshot of the To-Do List app showing a confirmation pop-up for deleting a task.*
-
-![Screenshot 5](screenshots/Screenshot_5.png)
-*Screenshot of the To-Do List app showing tasks that match the search results.*
-
-![Screenshot 6](screenshots/Screenshot_6.png)
-
-*Screenshot of the To-Do List app on Mobile device.*
 
 ## How to Use 📖
 
